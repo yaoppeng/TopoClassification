@@ -1,5 +1,7 @@
 # TopoClassification
 
+PyTorch implementation of the paper: PHG-Net: Persistent Homology Guided Medical Image Classification. (WACV 2024 first round acceptance).
+
 This repo is still messy. I will make it more readable and provide more detailed docs. （too busy recently)
 
 ## 1. Data
