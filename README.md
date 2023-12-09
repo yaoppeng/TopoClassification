@@ -9,3 +9,13 @@ download [ISIC](https://challenge.isic-archive.com/), [Prostate](https://osf.io/
 
 ## 2. Train
 run `train.py`. [Gudhi package](https://gudhi.inria.fr/) is utilized to generate the persistence diagram. There are many [amazing tutorial](https://gudhi.inria.fr/python/latest/cubical_complex_sklearn_itf_ref.html) on how to generate the persistence diagrams.
+
+## 3. Citation
+```
+@article{peng2023phg,
+  title={PHG-Net: Persistent Homology Guided Medical Image Classification},
+  author={Peng, Yaopeng and Wang, Hongxiao and Sonka, Milan and Chen, Danny Z},
+  journal={arXiv preprint arXiv:2311.17243},
+  year={2023}
+}
+```
